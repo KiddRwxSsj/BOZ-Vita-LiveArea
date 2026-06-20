@@ -22,14 +22,14 @@ This repository lets you easily replace the original LiveArea icons and backgrou
 All preview images are located in the `screenshots/` folder.
 
 - LiveArea bubble preview  
-  Path: `screenshots/livearea/livearea.png`  
+  Path: `screenshots/livearea.png`  
 
-  ![LiveArea bubble preview](screenshots/livearea/livearea.png)
+  ![LiveArea bubble preview](screenshots/livearea.png)
 
 - LiveArea assets preview (background + start area)  
-  Path: `screenshots/assets/assets.png`  
+  Path: `screenshots/assets.png`  
 
-  ![LiveArea assets preview](screenshots/assets/assets.png)
+  ![LiveArea assets preview](screenshots/assets.png)
 
 ---
 
